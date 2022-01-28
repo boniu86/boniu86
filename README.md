@@ -1,4 +1,4 @@
-### Hi there I am Monica 👧🏻. Welcome to here👋
+### Hi there, I am Monica 👧🏻. Welcome👋
 
 
 - ✨ Love to explore, love to ask questions, love to learn by doing.  
