@@ -8,7 +8,6 @@
 - 🤔 I’m looking for help with how to be a Machine Learning Engnieer, How to be better at interview
 - 💬 Ask me about anything, cooking, programming, even life :clap:
 - 📫 How to reach me: :postbox: write a letter, my 🦉 will pick it up. 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am a successful home cook 🍳🍽️, designited by CAT Brotherhood Association (a thing made by my three persian cat) 🐾😻😼
 
 
