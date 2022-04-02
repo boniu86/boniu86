@@ -3,7 +3,7 @@
 
 - ✨ Love to explore, love to ask questions, love to learn by doing.  
 - 🔭 I’m currently working on live Natural Language Processing. :laughing:. Current job is working as an interpreter on the phone for ESL clients who needs help.
-- 🌱 I’m currently learning Cloud Development, Natural Language Processing and Deep Learning. 
+- 🌱 I’m currently learning Cloud Development, Natural Language Processing. 
 - 👯 I’m looking to collaborate on Ontario House Market Analysis
 - 🤔 I’m looking for get a junior Data Scientist job
 - 💬 Ask me about anything :clap:
